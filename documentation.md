@@ -2,7 +2,8 @@
 
 Welcome to **Tembea Afrika**, a beautifully designed and user-friendly tourist touring website that helps travelers explore breathtaking destinations across Africa. This project offers seamless navigation, easy booking, and a rich travel experience.
 
-## live demo🌍 [https://tembea-africa.vercel.app/]
+## live demo🌍 [Visit Tembea Afrika](https://tembea-africa.vercel.app/)
+
 ---
 
 ## 🌟 Features
@@ -50,7 +51,7 @@ Welcome to **Tembea Afrika**, a beautifully designed and user-friendly tourist t
 ## 📞 Contact
 For any inquiries, feel free to reach out:
 - 📧 **Email:** support@tembeaafrika.com
-- 🌐 **Website:** [https://tembea-africa.vercel.app/](#)
+- 🌐 **Website:** [Tembea Afrika](https://tembea-africa.vercel.app/)
 - 📱 **Social Media:** Facebook | Twitter | Instagram
 
 ---
